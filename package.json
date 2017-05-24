@@ -1,6 +1,6 @@
 {
-  "name": "yabolt-ui-mark8",
-  "description": "YaBolt UI Engine Mark8",
+  "name": "min-react-webpack2-hmr",
+  "description": "Minimal React JS app with Webpack2 with HMR",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Vipul Bhopal",

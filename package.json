@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Vipul Bhopal",
-  "license": "ISC",
+  "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server"
   },

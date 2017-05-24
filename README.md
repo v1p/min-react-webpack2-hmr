@@ -22,7 +22,7 @@
 	|___ src
 	|	|___ components
 	|	|	|__  App
-	|	|	|__ index.js
+	|	|	      |__ index.js
 	|	|
 	|	|___ index.js
 	|
